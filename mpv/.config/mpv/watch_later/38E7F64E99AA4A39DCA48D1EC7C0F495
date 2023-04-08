@@ -1,0 +1,5 @@
+start=1420.062939
+pause=yes
+volume=88.000000
+vf=format=colormatrix=%6%bt.601
+sub-ass-override=no
