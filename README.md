@@ -3,7 +3,7 @@ Dotfiles repository for hyprland rice, structured for use with stow
 ![vending](./pictures/.config/pictures/1.png?raw=true)
 	
 Fonts:
-[link to nerdfonts iosevka](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.3/Iosevka.zip "Iosevka Nerd Font")
+[Iosevka Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.3/Iosevka.zip "Iosevka Nerd Font")
 
 Required packages:
 ```bash
