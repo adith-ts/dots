@@ -9,8 +9,8 @@ alias vim='nvim'
 #alias code='/home/adith/vscode/VSCode-linux-x64/bin/code'
 #alias zulu='/home/adith/zulu/zulu17.34.19-ca-jdk17.0.3-linux_x64/bin/java'
 #alias wine='wine64'
-PS1='[\e[1;32m\u\e[m@\h \W]\$ '
-
+#PS1='[\e[1;32m\u\e[m@\h \W]\$ '
+PS1="\e[0;32madith\e[0m@\H:-\w>"
 export NO_AT_BRIDGE=1 
 
 
