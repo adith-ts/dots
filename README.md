@@ -7,5 +7,5 @@ Fonts:
 
 Required packages:
 ```bash
-yay -S hyprland-git waybar-hyprland wlogout rofi-lbonn-wayland-git libdisplay-info-git ttf-font-awesome swaylock stow qt5-wayland qt6-wayland dunst grim pipewire pipewire-pulse wireplumber xdg-desktop-portal-hyprland-git polkit-kde-agent inotify-tools kitty hyprpaper imv ranger brightnessctl otf-font-awesome
+yay -S hyprland-git waybar-hyprland wlogout rofi-lbonn-wayland-git libdisplay-info-git ttf-font-awesome swaylock stow qt5-wayland qt6-wayland dunst grim pipewire pipewire-pulse wireplumber xdg-desktop-portal-hyprland-git polkit-kde-agent inotify-tools kitty hyprpaper imv ranger brightnessctl otf-font-awesome hyprcursor
 ```
